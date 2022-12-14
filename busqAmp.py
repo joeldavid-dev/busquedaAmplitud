@@ -82,7 +82,7 @@ def amplitud():
             indicePadre.append([edoAct,nivel-1])
             #print("Revisados: {}".format(revisados))
 
-        time.sleep(0.5)
+        #time.sleep(0.5)
 
     # Inicializa variables para obtener ruta
     duo = indicePadre.pop()
